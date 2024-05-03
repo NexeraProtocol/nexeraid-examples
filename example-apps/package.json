@@ -10,9 +10,9 @@
   },
   "dependencies": {
     "@airgap/beacon-types": "^4.2.1",
-    "@nexeraid/identity-sdk": "^1.1.332-dev",
-    "@nexeraprotocol/identity-schemas": "^1.10.122-dev",
-    "@nexeraprotocol/nexera-id-sig-gating-contracts-sdk": "^1.4.5",
+    "@nexeraid/identity-sdk": "^1.1.335-dev",
+    "@nexeraprotocol/identity-schemas": "^1.10.124-dev",
+    "@nexeraprotocol/nexera-id-sig-gating-contracts-sdk": "^2.0.3",
     "@polkadot/api": "^10.13.1",
     "@polkadot/extension-dapp": "^0.47.1",
     "@polkadot/extension-inject": "^0.47.1",
